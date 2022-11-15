@@ -10,6 +10,9 @@ Development Guidelines
 Use any programming language
 
 Official Features
+2D Game
+Easily Extensible/Modular
+Mishmash of Art Styles is Fine
 
 Design of Game
 
