@@ -4,7 +4,7 @@ Development Talk
 https://www.reddit.com/r/godot/comments/ymx44a/celebrate_100k_subs_with_a_game_jam_what_do_you/ 
 
 Development Location
-Github:https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
+Github: https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
 
 Development Guidelines
 Use any programming language
