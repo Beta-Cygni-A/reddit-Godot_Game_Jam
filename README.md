@@ -17,6 +17,9 @@ Mishmash of Art Styles is Fine
 Design of Game
 
 To Do List
+ Edit README.md to show what this project is about and provide better guidelines
+ Put up a small demo project to gather interest and start the project
+ Develop Community and Game ideas to help develop this r/godot community game project celebrating 100k Subs
  
 Helpful Links
 https://opensource.guide/starting-a-project/
