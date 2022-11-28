@@ -21,9 +21,7 @@ Github: https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
 - If you have any Questions or Ideas please go to Development Talk
 
 ### To Do List
-- Edit README.md to show what this project is about and provide better guidelines
 - Put up a small demo project to gather interest and start the project
-- Develop Community and Game ideas to help develop this r/godot community game project celebrating 100k Subs
 - Push FlashTrek: Assualt Code to github
  
 ## Helpful Links
