@@ -7,7 +7,7 @@ reddit Godot Game Jam is a game jam to celebrate 100k subs on r/godot. Due to no
 Join the force and help make this project a reality!
 
 Here is a picture of the original Flash Game in Action.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam/blob/main/Flash_Trek_Assualt_in_game_image.webp?raw=true)
 
 ### Development Talk
 https://www.reddit.com/r/godot/comments/ymx44a/celebrate_100k_subs_with_a_game_jam_what_do_you/ 
