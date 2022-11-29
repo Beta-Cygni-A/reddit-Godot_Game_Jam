@@ -1,0 +1,27 @@
+(5 shots, low energy, quick recharge)
+--- RECORDSEPARATOR ---
+(6 shots, medium energy, medium recharge)
+--- RECORDSEPARATOR ---
+(15 shots, medium energy, slow recharge)
+--- RECORDSEPARATOR ---
+(3 shots, high energy, slow recharge)
+--- RECORDSEPARATOR ---
+(increases shield strength by 100)
+--- RECORDSEPARATOR ---
+(phasers recharge twice as fast)
+--- RECORDSEPARATOR ---
+(# of torpedoes per load is doubled)
+--- RECORDSEPARATOR ---
+(extends base shields around shipyards)
+--- RECORDSEPARATOR ---
+(each kill yields more resources)
+--- RECORDSEPARATOR ---
+(adds phaser array to akira shipyard)
+--- RECORDSEPARATOR ---
+(adds phaser array to sovereign shipyard)
+--- RECORDSEPARATOR ---
+(adds auto-firing phaser array to starbase)
+--- RECORDSEPARATOR ---
+(rebuilds the sovereign shipyard)
+--- RECORDSEPARATOR ---
+rebuilds the akira shipyard)

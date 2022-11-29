@@ -1,0 +1,5 @@
+PLAY EASY: Ore refinery and station defense
+--- RECORDSEPARATOR ---
+arrays already in place when you begin and
+--- RECORDSEPARATOR ---
+you start with 5,000 resources.

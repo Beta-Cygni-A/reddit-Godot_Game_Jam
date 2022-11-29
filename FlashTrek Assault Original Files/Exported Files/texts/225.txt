@@ -1,0 +1,27 @@
+   Phaser Power Core: Doubles recharge
+--- RECORDSEPARATOR ---
+rate of all your phasers.
+--- RECORDSEPARATOR ---
+   Shield Regenerator: Increases shield
+--- RECORDSEPARATOR ---
+strength by 100.
+--- RECORDSEPARATOR ---
+   Shield Extendor: Extends starbase
+--- RECORDSEPARATOR ---
+shields around the shipyards.
+--- RECORDSEPARATOR ---
+   Akira Defense Array: Equips the akira
+--- RECORDSEPARATOR ---
+shipyard with an auto-firing phaser.
+--- RECORDSEPARATOR ---
+   Sovereign Defense Array: Equips the
+--- RECORDSEPARATOR ---
+sovereign shipyard with an auto-firing
+--- RECORDSEPARATOR ---
+phaser.
+--- RECORDSEPARATOR ---
+   Starbase Defense Array: Equips the
+--- RECORDSEPARATOR ---
+starbase with an auto-firing phaser
+--- RECORDSEPARATOR ---
+(but this does drain your phaser energy)
