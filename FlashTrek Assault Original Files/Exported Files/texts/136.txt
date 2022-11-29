@@ -1,0 +1,27 @@
+Type X Phasers (0):
+--- RECORDSEPARATOR ---
+Plasma Phasers (2,000):
+--- RECORDSEPARATOR ---
+Pulse Phasers (5,000):
+--- RECORDSEPARATOR ---
+Lance Phasers (10,000):
+--- RECORDSEPARATOR ---
+Shield Generator (1,000):
+--- RECORDSEPARATOR ---
+Phaser Power Core (5,000):
+--- RECORDSEPARATOR ---
+Torpedo Turrents (8,000):
+--- RECORDSEPARATOR ---
+Shield Extendor (50,000):
+--- RECORDSEPARATOR ---
+Ore Refinery (100,000):
+--- RECORDSEPARATOR ---
+Akira Shipyard Defense Array (15,000):
+--- RECORDSEPARATOR ---
+Sovereign Shipyard Defense Array (20,000):
+--- RECORDSEPARATOR ---
+Starbase Auto-Defense Array (30,000):
+--- RECORDSEPARATOR ---
+Rebuild Soveriegn Shipyard (50,000):
+--- RECORDSEPARATOR ---
+Rebuild Akira Shipyard (45,000):
