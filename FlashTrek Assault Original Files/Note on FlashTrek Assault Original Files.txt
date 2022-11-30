@@ -1,5 +1,5 @@
 I got the swf from FlashPoint. I decompiled the swf with JPEXS Decompiler. 
-
+These folders are for reference and NOT for modification. Consider them read-only.
 Folder "Exported Files" has the files created when the button "Export All Parts" was pressed.
 Folder "fla" has the fla created when the button "Export to fla" was pressed.
 Folder "xml" has the xml created when the button "Export swf xml" was pressed.

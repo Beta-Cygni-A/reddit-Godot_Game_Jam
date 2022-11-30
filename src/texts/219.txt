@@ -1,0 +1,47 @@
+Runabout: Slow torpedo reload, slow
+--- RECORDSEPARATOR ---
+phaser recharge. Special weapon is a
+--- RECORDSEPARATOR ---
+engine decelerator pulse that slows
+--- RECORDSEPARATOR ---
+down all visible enemy ships.
+--- RECORDSEPARATOR ---
+Intrepid: Decent phaser and torpedo
+--- RECORDSEPARATOR ---
+rates. Special weapon is a tractor beam
+--- RECORDSEPARATOR ---
+that stops all ships in its range in their
+--- RECORDSEPARATOR ---
+tracks.
+--- RECORDSEPARATOR ---
+Akira:  Fast torpedo firing rate, slow
+--- RECORDSEPARATOR ---
+phaser rates. Special weapon is a
+--- RECORDSEPARATOR ---
+nebulous cloud that damages all ships
+--- RECORDSEPARATOR ---
+entering it.
+--- RECORDSEPARATOR ---
+Prometheus: Good phaser and torpedo
+--- RECORDSEPARATOR ---
+rates. Special weapon is a multi-vectored
+--- RECORDSEPARATOR ---
+phaser attack that fires at all enemies
+--- RECORDSEPARATOR ---
+simultaneously.
+--- RECORDSEPARATOR ---
+Sovereign: Fast phasers and decent
+--- RECORDSEPARATOR ---
+torpedo reloads. Special weapon is a
+--- RECORDSEPARATOR ---
+subspace rift that destroys everything in
+--- RECORDSEPARATOR ---
+its path.
+--- RECORDSEPARATOR ---
+Mine: Damages anything to touch it.
+--- RECORDSEPARATOR ---
+Special is an overload, it explodes and
+--- RECORDSEPARATOR ---
+does more damage at a distance.
+--- RECORDSEPARATOR ---
+Phaser Platform: Fires phasers at target.
