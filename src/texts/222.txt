@@ -1,0 +1,11 @@
+Heavy Shipyard: Builds the
+--- RECORDSEPARATOR ---
+Sovereign and Prometheus.
+--- RECORDSEPARATOR ---
+Shipyard: Builds the Akira.
+--- RECORDSEPARATOR ---
+Starbase: Builds the defense mine,
+--- RECORDSEPARATOR ---
+phaser platform, Runabout, and
+--- RECORDSEPARATOR ---
+Intrepid.
