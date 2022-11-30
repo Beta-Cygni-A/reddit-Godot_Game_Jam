@@ -22,7 +22,15 @@ Github: https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
 
 ### To Do List
 - Put up a small demo project to gather interest and start the project
-- Push FlashTrek: Assualt Code to github
+- FInish Work on README
+- Add contributer guidelines
+- add code of conduct
+- add pull request guidelines
+- push actionscript 2. manual to repo
+- go through project and come up with development plan
+- next progress report post when have menu screen working or when first game dev part is working
+- figure out how to attribute to Vex Xiang
+
  
 ## Helpful Links
 - https://opensource.guide/starting-a-project/
