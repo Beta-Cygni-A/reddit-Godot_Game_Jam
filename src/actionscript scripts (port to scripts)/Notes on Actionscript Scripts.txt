@@ -1,0 +1,385 @@
+Folder "DefineButton2_47"
+- BUTTONCONDACTION on(release).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver).as
+  Description: ""
+
+Folder "DefineButton2_64"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut)
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver)
+  Description: ""
+
+Folder "DefineButton2_68"
+- BUTTONCONDACTION on(release).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver).as
+  Description: ""
+
+Folder "DefineButton2_73"
+- BUTTONCONDACTION on(release).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver).as
+  Description: ""
+
+Folder "DefineButton2_78"
+- BUTTONCONDACTION on(release).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver).as
+  Description: ""
+
+Folder "DefineButton2_83"
+- BUTTONCONDACTION on(release).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut).as
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver).as
+  Description: ""
+
+Folder "DefineButton2_140"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_141"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_142"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_143"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_144"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_146"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_147"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_148"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_149"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_150"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_154"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_155"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_156"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_157"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_158"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_159"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_177"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_181"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_185"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_189"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_193"
+- BUTTONCONDACTION on(release) 
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut) 
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver) 
+  Description: ""
+
+Folder "DefineButton2_203"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_217"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_229"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_231"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineButton2_240"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut)
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver)
+  Description: ""
+
+Folder "DefineButton2_244"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut)
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver)
+  Description: ""
+
+Folder "DefineButton2_249"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+- BUTTONCONDACTION on(rollOut)
+  Description: ""
+
+- BUTTONCONDACTION on(rollOver)
+  Description: ""
+
+Folder "DefineButton2_266"
+- BUTTONCONDACTION on(release)
+  Description: ""
+
+Folder "DefineSprite_21_explosion"
+- SubFolder frame_7
+  - DoAction
+    Description: ""
+
+Folder "DefineSprite_25_explosionmini"
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_3"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_4"
+  - DoAction.as
+    Description: ""
+
+Folder "DefineSprite_28_assimilate"
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+
+Folder "DefineSprite_31_tractor"
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+
+Folder "DefineSprite_40_phaser"
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_3"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_4"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_5"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_6"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_7"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_8"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_9"
+  - DoAction.as
+    Description: ""
+	
+Folder "DefineSprite_52_mine" START FIX IN THIS GROUP
+- 
+  Description: ""
+
+Folder "DefineSprite_59_phaserpod"
+- SubFolder "frame_1"
+  - DoAction.as
+  - Description: ""
+
+Folder "DefineSprite_84_ship"
+- 
+  Description: ""
+
+Folder "DefineSprite_117_enemy"
+- 
+  Description: ""
+
+Folder "DefineSprite_123_etorp"
+- 
+  Description: ""
+
+Folder "DefineSprite_125_torp"
+- 
+  Description: ""
+
+Folder "DefineSprite_127_stagetext"
+- 
+  Description: ""
+
+Folder "DefineSprite_130_subspace"
+- 
+  Description: ""
+
+Folder "DefineSprite_130_subspace"
+- 
+  Description: ""
+
+Folder "DefineSprite_160_menu"
+- 
+  Description: ""
+
+Folder "DefineSprite_167_nebula"
+- 
+  Description: ""
+
+Folder "DefineSprite_200_station2"
+- 
+  Description: ""
+
+Folder "DefineSprite_245" END FIX IN THIS GROUP
+- SubFolder "frame_1"
+- SubFolder "frame_2"
+- SubFolder "frame_3"
+- SubFolder "frame_9"
+- SubFolder "frame_10"
+  Description: ""
+
+Folder "DefineSprite_250"
+- SubFolder "frame_1"
+  - SubFolder "PlaceObject2_58_7"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+      Description: ""
+  - SubFolder "PlaceObject2_89_5"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+  - SubFolder "PlaceObject2_173_13"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+  - SubFolder "PlaceObject2_236_15"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_10"
+  - DoAction.as
+    Description: ""
+	
+Folder "DefineSprite_260"
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+
+Folder "frame_1"
+- DoAction.as
+  Description: ""
+
+Folder "frame_2"
+- DoAction.as
+  Description: ""
+
+Folder "frame_3"
+- DoAction.as
+  Description: ""
+
+Folder "frame_4"
+- SubFolder "PlaceObject2_200_station2_21"
+  - CLIPACTIONRECORD onClipEvent(enterFrame)
+    Description: ""
+- SubFolder "PlaceObject2_245_2"
+  - CLIPACTIONRECORD onClipEvent(enterFrame).as
+    Description: ""
+- SubFolder "PlaceObject2_250_46"
+  - CLIPACTIONRECORD onClipEvent(enterFrame).as
+    Description: ""
+- DoAction.as
+  Description: ""
+
+Folder "frame_5"
+- DoAction.as
+  Description: ""
+
+Folder "frame_6"
+- DoAction.as
+  Description: ""
+
+Folder "frame_25"
+- DoAction.as
+  Description: ""
