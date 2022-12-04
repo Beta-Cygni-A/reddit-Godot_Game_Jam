@@ -262,9 +262,37 @@ Folder "DefineSprite_40_phaser"
   - DoAction.as
     Description: ""
 	
-Folder "DefineSprite_52_mine" START FIX IN THIS GROUP
-- 
-  Description: ""
+Folder "DefineSprite_52_mine"
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_7"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_8"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_9"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_10"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_11"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_12"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_13"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_14"
+  - DoAction.as
+    Description: ""
 
 Folder "DefineSprite_59_phaserpod"
 - SubFolder "frame_1"
@@ -272,51 +300,324 @@ Folder "DefineSprite_59_phaserpod"
   - Description: ""
 
 Folder "DefineSprite_84_ship"
-- 
-  Description: ""
+- SubFolder "frame_1"
+  - SubFolder "PlaceObject2_62_1"
+    - CLIPACTIONRECORD on(release).as
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_3"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_4"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_5"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_6"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_7"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_8"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_9"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_10"
+  - DoAction.as
+    Description: ""
 
 Folder "DefineSprite_117_enemy"
-- 
-  Description: ""
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - SubFolder "PlaceObject2_58_5"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+	  Description: ""
+  - SubFolder "PlaceObject2_87_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - SubFolder "PlaceObject2_89_3"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_3"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_4"
+  - SubFolder "PlaceObject2_92_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_5"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_6"
+  - SubFolder "PlaceObject2_95_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_7"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_8"
+  - SubFolder "PlaceObject2_98_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_9"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_10"
+  - SubFolder "PlaceObject2_101_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_11"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_12"
+  - SubFolder "PlaceObject2_104_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_13"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_14"
+  - SubFolder "PlaceObject2_107_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_15"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_16"
+  - SubFolder "PlaceObject2_110_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_17"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_18"
+  - SubFolder "PlaceObject2_113_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_19"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_20"
+  - SubFolder "PlaceObject2_116_1"
+    - CLIPACTIONRECORD on(release).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOut).as
+	  Description: ""
+	- CLIPACTIONRECORD on(rollOver).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_21"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_22"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_28"
+  - DoAction.as
+    Description: ""
 
 Folder "DefineSprite_123_etorp"
-- 
-  Description: ""
-
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_3"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_4"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_5"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_6"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_7"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_8"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_9"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_10"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_11"
+  - DoAction.as
+    Description: ""
+	
 Folder "DefineSprite_125_torp"
-- 
-  Description: ""
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
 
 Folder "DefineSprite_127_stagetext"
-- 
-  Description: ""
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_25"
+  - DoAction.as
+    Description: ""
 
 Folder "DefineSprite_130_subspace"
-- 
-  Description: ""
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
 
-Folder "DefineSprite_130_subspace"
-- 
-  Description: ""
+Folder "DefineSprite_133_target"
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_3"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_4"
+  - DoAction.as
+    Description: ""
 
 Folder "DefineSprite_160_menu"
-- 
-  Description: ""
+- SubFolder "frame_1"
+  - DoAction.as
+    Description: ""
 
 Folder "DefineSprite_167_nebula"
-- 
-  Description: ""
+- SubFolder "frame_1"
+  - SubFolder "PlaceObject2_163_1"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+  - SubFolder "PlaceObject2_166_3"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+      Description: ""
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
 
 Folder "DefineSprite_200_station2"
-- 
-  Description: ""
-
-Folder "DefineSprite_245" END FIX IN THIS GROUP
 - SubFolder "frame_1"
+  - SubFolder "PlaceObject2_172_2"
+  - CLIPACTIONRECORD onClipEvent(enterFrame).as
+    Description: ""
+  - SubFolder "PlaceObject2_173_4"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
 - SubFolder "frame_2"
-- SubFolder "frame_3"
-- SubFolder "frame_9"
+  - DoAction.as
+    Description: ""
 - SubFolder "frame_10"
+  - DoAction.as
+    Description: ""
+
+Folder "DefineSprite_245"
+- SubFolder "frame_1"
+  - SubFolder "PlaceObject2_58_4"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+	  Description: ""
+  - SubFolder "PlaceObject2_89_2"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+	  Description: ""
+  - SubFolder "PlaceObject2_173_18"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+      Description: ""
+  - SubFolder "PlaceObject2_236_6"
+    - CLIPACTIONRECORD onClipEvent(enterFrame).as
+	  Description: ""
+  - DoAction.as
+    Description: ""
+  - DoAction_2.as
+    Description: ""
+- SubFolder "frame_2"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_3"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_9"
+  - DoAction.as
+    Description: ""
+- SubFolder "frame_10"
+  - DoAction.as
+    Description: ""
   Description: ""
 
 Folder "DefineSprite_250"
