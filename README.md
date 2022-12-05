@@ -21,14 +21,16 @@ Github: https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
 - If you have any Questions or Ideas please go to Development Talk
 
 ### To Do List
+- Comment on each Actionscript script, describing what the piece of code does, write comment in "Note on FlashTrek Assault Original Files.txt"
+- go through project and come up with development plan
+- Using the descriptions, re-write the actionscript scripts in C++ in Godot
 - Put up a small demo project to gather interest and start the project
+- next progress report post when have menu screen working or when first game dev part is working
+- figure out how to attribute to Vex Xiang
 - FInish Work on README
 - Add contributer guidelines
 - add code of conduct
 - add pull request guidelines
-- go through project and come up with development plan
-- next progress report post when have menu screen working or when first game dev part is working
-- figure out how to attribute to Vex Xiang
 
  
 ## Helpful Links
