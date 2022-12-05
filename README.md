@@ -19,6 +19,7 @@ Github: https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
 - Use any programming language
 - Code in a modular, easily extensible and re-usable fashion
 - If you have any Questions or Ideas please go to Development Talk
+- Use Godot Engine 3.5.1
 
 ### To Do List
 - Comment on each Actionscript script, describing what the piece of code does, write comment in "Notes on Actionscript Scripts.txt"
@@ -31,6 +32,7 @@ Github: https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
 - Add contributer guidelines
 - add code of conduct
 - add pull request guidelines
+- setup for devlog for showing how make full game in c++ modules and port flash game to Godot
 
  
 ## Helpful Links

@@ -1,6 +1,12 @@
 Folder "DefineButton2_47"
 - BUTTONCONDACTION on(release).as
-  Description: ""
+  Description: "on release of button 'DefineButton2_47' which can be found at src/buttons, 
+   if(_root.resources >= 50)
+   {
+      _root.resources -= 50;
+      gotoAndPlay(8); Maybe reffering to Frame_8? According to guide: "A number representing the frame number, or a string representing the label of the frame, to which the playhead is sent"
+   }
+}"
 
 - BUTTONCONDACTION on(rollOut).as
   Description: ""
