@@ -1,0 +1,25 @@
+I am starting here because 
+1, I don't have my setup ready, 
+2, I am not really looking to talk alot due to soreness from wisdom teeth pulled out 3 days ago, 
+3, I want to make sure I don't forget stuff, 
+4, I don't want to pause progress, 
+so let's go!
+
+12/5/2022
+
+To port this game, I will need to decipher what each piece of actionscript code is doing, My guess is that the code is actionscript 2. 
+I know that it is not actionscript 3, and due to when the game came out I think it is actionscript 2. Therefore from now on unless
+otherwise proven, I will assume that the code is actionscript 2. In the doc "Notes on Actionscript Scripts.txt", I have put a more 
+or less of a file tree with room for a comment on each actionscript 2 script. To find out what each piece of code is doing means I 
+need to think as a web dev, as a actionscript 2 coder. I am using some manuals which can be found at the "Actionscript Guides" folder.
+I put a comment on a piece of code last night and was reminded of the structure of flash programs. The script modifies all the other 
+exported files. Also the name of the folder that the script is in, gives indication to what it is modifying. AFter doing some research, 
+I found that flash games do not have a "main" class like c++ and some other languages. I then thought about it. This is a game made in
+Adobe Flash which is an animation software that works by having scripts modify other things. Beacuse of the nature of Flash, it works 
+in frames, which means that to find where the actionscript program starts executing is probably in frame 1. First I looked in the frames
+folder. The first frame is a game loading frame. The third frame is the game menu once fully loaded. AFter seeing this, I then went to
+the actionscript scripts folder. I looked for a frame_1 folder and found one. Inside there was a DoAction.as script. I looked at the 
+code and it looked like it was loading stuff for the game. I then looked at frame_2 folder. Inside there was a DoAction.as script as 
+well and the code inside had an if statement that if game was fully loaded play 3, which would mean frame 3, the very frame that 
+should play when the game is fully loaded, which means we found where the code starts to execute which means we can start re-building
+the game from here!
