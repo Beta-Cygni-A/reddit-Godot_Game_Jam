@@ -34,6 +34,7 @@ Github: https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
 - Add contributer guidelines
 - add code of conduct
 - add pull request guidelines
+- add security
 - setup for devlog for showing how make full game in c++ modules and port flash game to Godot
 
  
