@@ -20,6 +20,8 @@ Github: https://github.com/Beta-Cygni-A/reddit-Godot_Game_Jam
 - Code in a modular, easily extensible and re-usable fashion
 - If you have any Questions or Ideas please go to Development Talk
 - Use Godot Engine 3.5.1
+- If you are implementing a feature, working on this project, please say what you are working on in the Dev Talk and or open an issue and say you will work on the issue. Please do this so we don't waste time doing a feature someone else is already doing.
+- Fork project or clone project, make your changes, test them, if they work, push to dev-branch, then open pull request to main-branch.
 
 ### To Do List
 - Comment on each Actionscript script, describing what the piece of code does, write comment in "Notes on Actionscript Scripts.txt"
