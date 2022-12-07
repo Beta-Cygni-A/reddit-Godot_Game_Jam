@@ -656,15 +656,15 @@ Folder "DefineSprite_260"
 
 Folder "frame_1"
 - DoAction.as
-  Description: ""
+  Description: "this is loading screen code"
 
 Folder "frame_2"
 - DoAction.as
-  Description: ""
+  Description: "if loaded go to 3, else go to 1"
 
 Folder "frame_3"
 - DoAction.as
-  Description: ""
+  Description: "wait for instructions from player"
 
 Folder "frame_4"
 - SubFolder "PlaceObject2_200_station2_21"
