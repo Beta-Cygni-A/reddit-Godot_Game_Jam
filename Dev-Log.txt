@@ -23,3 +23,14 @@ code and it looked like it was loading stuff for the game. I then looked at fram
 well and the code inside had an if statement that if game was fully loaded play 3, which would mean frame 3, the very frame that 
 should play when the game is fully loaded, which means we found where the code starts to execute which means we can start re-building
 the game from here!
+
+12/6/2022
+
+Today I tried finding out how to and what to implement. I asked some on reddit about the godot source code and if it had mono support 
+in it. After some awnsers and some more digging I found that the godot docs has one on compiling godot with mono which means that 
+someone can still mod my game with C# even though it's not the mono release. Also on reddito said that the docs are not uptudate and 
+to look at mono readme. So for those of you who use C#, there you go. I also took a look around to find out how to write the 
+actionscript code in a c++ module. After a couple failed compiles and alot of searching and digging, I found that kinematicbody2d is
+stored under scenes/2d/ in the file like staticbody2d, somethin like that. Now that I know where the nodes are, I can now try to find 
+out how to use them in C++, and then implement and ... Basically now I got to make a file that allows a character to move around 
+screen by keys, compile it, and import the art. Let you know what happens.

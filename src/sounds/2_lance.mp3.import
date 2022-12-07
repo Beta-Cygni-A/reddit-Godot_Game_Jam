@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/2_lance.mp3-00fad9a656b6b3f26b76d70e5e2a9a7c.mp3str"
+
+[deps]
+
+source_file="res://src/sounds/2_lance.mp3"
+dest_files=[ "res://.import/2_lance.mp3-00fad9a656b6b3f26b76d70e5e2a9a7c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

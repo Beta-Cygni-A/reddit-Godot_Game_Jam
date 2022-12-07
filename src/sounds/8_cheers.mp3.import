@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/8_cheers.mp3-3e488b67b0c403cef864dc3eb108585c.mp3str"
+
+[deps]
+
+source_file="res://src/sounds/8_cheers.mp3"
+dest_files=[ "res://.import/8_cheers.mp3-3e488b67b0c403cef864dc3eb108585c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
