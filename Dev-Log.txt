@@ -34,3 +34,15 @@ actionscript code in a c++ module. After a couple failed compiles and alot of se
 stored under scenes/2d/ in the file like staticbody2d, somethin like that. Now that I know where the nodes are, I can now try to find 
 out how to use them in C++, and then implement and ... Basically now I got to make a file that allows a character to move around 
 screen by keys, compile it, and import the art. Let you know what happens.
+
+12/9/2022
+
+I have still had trouble with C++ modules. I plan to do learn more about them, learn more about gdextension, and continue to 
+translate actionscript 2 code. Progess will be sowed but not halted. I plan to do some small demo projects to learn more so 
+I can port this game. Wish me luck and if you'd like, join the force! (got the force part from dondon). Who is dondon? 
+Dondon is someone from the old FlashTrek community. I never got to meet him or be a part of that community. Sadly all places
+are either long gone or inactive for years. Only reason I heard of dondon was in my search to find the source code for the 
+flashtrek games. Dondon was the last one and most recent to try to bring the community toghether. But people still play the 
+games, a newer generation, and maybe when these are ported, people can mod them like they use to, and the community will be back.
+That is my hope and dream for this port of the game, that it let me modify and distribute freely, and bring up a new FlashTrek 
+community, or from a title from one of the FlashTrek games, Rebirth of the Empire.
