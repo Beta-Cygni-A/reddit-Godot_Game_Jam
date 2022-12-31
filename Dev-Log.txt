@@ -46,3 +46,11 @@ flashtrek games. Dondon was the last one and most recent to try to bring the com
 games, a newer generation, and maybe when these are ported, people can mod them like they use to, and the community will be back.
 That is my hope and dream for this port of the game, that it let me modify and distribute freely, and bring up a new FlashTrek 
 community, or from a title from one of the FlashTrek games, Rebirth of the Empire.
+
+12/30/2022
+
+I have been pretty busy, but I have been working on learning gdnative, gdextension and c++ modules. I'm following tutorials for 
+these and so far having some trouble but people on reddit are helping me. So far my prioraties are college, learning more c++, 
+and helping with Open Design and Localverse. Once I finish the turotials on gdnative (almost done) and gdextension (haven't started),
+I then will go to programming this game. Since I have no collaberators, I can read actionscript, and the time takem to translate
+is probably better used in re-writng it, I have stopped translating actionscript and putting translation in doc.
